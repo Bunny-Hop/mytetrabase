@@ -3,12 +3,38 @@
 <root>
  <format version="1" subversion="2"/>
  <content>
-  <node crypt="" id="1300000000aaaaaaaaa1" name="Rename me">
-   <recordtable>
-    <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
-   </recordtable>
-   <node crypt="" id="1497936360ksazztlowo" name="Работа"/>
-   <node crypt="" id="14979363662985r1og67" name="Дом"/>
+  <node crypt="" id="1300000000aaaaaaaaa1" name="Комп">
+   <node crypt="" id="1498011714v9szfoyc9a" name="Кодинг">
+    <node crypt="" id="1498011949h95bitl2hj" name="С++">
+     <node crypt="" id="1498011981lgrlte4zoa" name="Qt"/>
+    </node>
+    <node crypt="" id="1498011958piuw8pu39l" name="PHP">
+     <node crypt="" id="1498012013yzkmnphomz" name="Yii"/>
+    </node>
+    <node crypt="" id="1498012033fwmy883b6p" name="Регулярные выражения"/>
+   </node>
+   <node crypt="" id="1498011724z7nhuxa9nr" name="Линух">
+    <node crypt="" id="1498011965wrn4feyyk8" name="Bash"/>
+   </node>
+   <node crypt="" id="1498012316vfxkzcrzr3" name="Maining"/>
+   <node crypt="" id="1498012325sehohq3rmu" name="3D"/>
+  </node>
+  <node crypt="" id="14980123592oknamxmc8" name="Паяльник"/>
+  <node crypt="" id="1498012374zcojnfb4o9" name="Аквариум"/>
+  <node crypt="" id="1498012383q0ov5voyso" name="Дети"/>
+  <node crypt="" id="14980129618rjyaw148i" name="ПГС">
+   <node crypt="" id="149801297885f7twhfyc" name="Revit">
+    <node crypt="" id="1498012999oveldyruq7" name="VBA"/>
+   </node>
+   <node crypt="" id="1498012994va8w95pmib" name="Autocad">
+    <node crypt="" id="1498013004bldkz9gsbg" name="VBA"/>
+   </node>
+   <node crypt="" id="149801297209dreustjz" name="АР"/>
+   <node crypt="" id="1498013076oy0224738c" name="КР">
+    <node crypt="" id="1498013081l62qylg8eb" name="КМ"/>
+    <node crypt="" id="1498013084nchh30h7w7" name="КЖ"/>
+   </node>
+   <node crypt="" id="14980131254h4gegv9z2" name="Общие сведения"/>
   </node>
  </content>
 </root>
