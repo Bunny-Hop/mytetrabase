@@ -36,5 +36,10 @@
    </node>
    <node crypt="" id="14980131254h4gegv9z2" name="Общие сведения"/>
   </node>
+  <node crypt="" id="1498014085szohjc1h4q" name="MyTetra">
+   <recordtable>
+    <record id="1498014199qejz74hijh" name="MyT Habrahabr" author="" url="" tags="MyTetra" ctime="20170621140319" dir="1498014199azb2fzoj65" file="text.html"/>
+   </recordtable>
+  </node>
  </content>
 </root>
