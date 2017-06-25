@@ -21,8 +21,8 @@
   </node>
   <node crypt="" id="14980123592oknamxmc8" name="Паяльник"/>
   <node crypt="" id="1498012374zcojnfb4o9" name="Аквариум"/>
-  <node crypt="" id="1498012383q0ov5voyso" name="Дети"/>
-  <node crypt="" id="14980129618rjyaw148i" name="ПГС">
+  <node crypt="" icon="/WinStyle/nocolor_icons8_Windows_10_babys_room.svg" id="1498012383q0ov5voyso" name="Дети"/>
+  <node crypt="" icon="/SmashingTourism/nocolor_smashing_tourism_Tourism-Icons_castle-2.svg" id="14980129618rjyaw148i" name="ПГС">
    <node crypt="" id="149801297885f7twhfyc" name="Revit">
     <node crypt="" id="1498012999oveldyruq7" name="VBA"/>
    </node>
@@ -41,5 +41,6 @@
     <record id="1498014199qejz74hijh" name="MyT Habrahabr" author="" url="" tags="MyTetra" ctime="20170621140319" dir="1498014199azb2fzoj65" file="text.html"/>
    </recordtable>
   </node>
+  <node crypt="1" icon="" id="1498396469bvsy6d8wph" name="UkM1U0lNUAPusAdayfT5i9dxwz4l1mP34TsZZVDprtyDjlh7O+9zMiE2/+eHatbAcXlBmwg7SDU="/>
  </content>
 </root>
