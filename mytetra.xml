@@ -4,6 +4,9 @@
  <format version="1" subversion="2"/>
  <content>
   <node crypt="" id="1300000000aaaaaaaaa1" name="Комп">
+   <recordtable>
+    <record id="1498435708uetgkmy5rb" name="Создание скрытого пользователя" author="" url="https://www.youtube.com/watch?v=qlwr83pgaYE" tags="пользователь" ctime="20170626110828" dir="1498435708zqggns5ytf" file="text.html"/>
+   </recordtable>
    <node crypt="" id="1498011714v9szfoyc9a" name="Кодинг">
     <node crypt="" id="1498011949h95bitl2hj" name="С++">
      <node crypt="" id="1498011981lgrlte4zoa" name="Qt"/>
