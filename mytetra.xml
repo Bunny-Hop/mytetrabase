@@ -4,9 +4,6 @@
  <format version="1" subversion="2"/>
  <content>
   <node crypt="" id="1300000000aaaaaaaaa1" name="Комп">
-   <recordtable>
-    <record id="1498435708uetgkmy5rb" name="Создание скрытого пользователя" author="" url="https://www.youtube.com/watch?v=qlwr83pgaYE" tags="пользователь" ctime="20170626110828" dir="1498435708zqggns5ytf" file="text.html"/>
-   </recordtable>
    <node crypt="" id="1498011714v9szfoyc9a" name="Кодинг">
     <node crypt="" id="1498011949h95bitl2hj" name="С++">
      <node crypt="" id="1498011981lgrlte4zoa" name="Qt"/>
@@ -21,11 +18,17 @@
    </node>
    <node crypt="" id="1498012316vfxkzcrzr3" name="Maining"/>
    <node crypt="" id="1498012325sehohq3rmu" name="3D"/>
-   <node crypt="" id="1498424973drma58poiz" name="Win"/>
+   <node crypt="" id="1498424973drma58poiz" name="Win">
+    <recordtable>
+     <record id="1498435708uetgkmy5rb" name="Создание скрытого пользователя" author="" url="https://www.youtube.com/watch?v=qlwr83pgaYE" tags="пользователь" ctime="20170627004434" dir="1498435708zqggns5ytf" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="" id="14980123592oknamxmc8" name="Паяльник">
    <recordtable>
     <record id="1498444426vwn7sqr7sv" name="USB3.0 PCB" author="" url="http://www.usb.org/developers/docs/devclass_docs/CabConn_3_0_Compliance_Document_v1.02_2011-10-04.pdf" tags="" ctime="20170626133346" dir="1498444426nqcehx05ep" file="text.html"/>
+    <record id="1498487579af9g1i2hkj" name="usb hub" author="" url="" tags="" ctime="20170627013259" dir="1498487579ab4nfymbew" file="text.html"/>
+    <record id="1498489298l2ucj7fwi7" name="hub 1.1" author="Aheir, aheir@radiokot.ru" url="http://sirak.ucoz.ru/load/pc/vspomogatelnye_skhemy/usb_1_1_khab_light/19-1-0-487" tags="" ctime="20170627020138" dir="1498489298ruirjnzkvc" file="text.html"/>
    </recordtable>
   </node>
   <node crypt="" id="1498012374zcojnfb4o9" name="Аквариум"/>

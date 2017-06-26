@@ -1,0 +1,9 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'DejaVu Sans'; font-size:11pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">блиин, конечно же все знают как.. (просто все умалчивают)</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">это оочень просто, берём пять портов USB ..</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">первый порт будет входом, крайний правый контакт это плюс 5 вольт, далее RX его соединяем со всеми остальными 4-мя портами через резистор на 10 Ом, (естественно два крайних плюс 5 вольт и масса соединяем паралельно)..</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">следующий это TX етот контакт соединяем со всеми остальными 4-мя портами через конденсатор 0.1мкФ (керамический) .. между питанием и RX ставим конденсатор на 0.023мкФ (керамический) , а между массой (минусом питания) и всеми остальными контактами, ставим конденсаторы 0.01мкФ , для того чтоб работало на USB 2.2 данную схему можно доработать.. нужно установить резистор между контактами 2 и 3 , с сопротивлением в 1 кОм и паралельно резистору поставить конденсатор на 1мкФ (тантал)..</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">схема работает отлично при скорости 350-400Мб. проверялось при нагрузке всех портов..</p></body></html>
