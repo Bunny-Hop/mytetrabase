@@ -4,6 +4,9 @@
  <format version="1" subversion="2"/>
  <content>
   <node crypt="" id="1300000000aaaaaaaaa1" name="Комп">
+   <recordtable>
+    <record id="1498435708uetgkmy5rb" name="Создание скрытого пользователя" author="" url="https://www.youtube.com/watch?v=qlwr83pgaYE" tags="пользователь" ctime="20170626110828" dir="1498435708zqggns5ytf" file="text.html"/>
+   </recordtable>
    <node crypt="" id="1498011714v9szfoyc9a" name="Кодинг">
     <node crypt="" id="1498011949h95bitl2hj" name="С++">
      <node crypt="" id="1498011981lgrlte4zoa" name="Qt"/>
@@ -20,7 +23,11 @@
    <node crypt="" id="1498012325sehohq3rmu" name="3D"/>
    <node crypt="" id="1498424973drma58poiz" name="Win"/>
   </node>
-  <node crypt="" id="14980123592oknamxmc8" name="Паяльник"/>
+  <node crypt="" id="14980123592oknamxmc8" name="Паяльник">
+   <recordtable>
+    <record id="1498444426vwn7sqr7sv" name="USB3.0 PCB" author="" url="http://www.usb.org/developers/docs/devclass_docs/CabConn_3_0_Compliance_Document_v1.02_2011-10-04.pdf" tags="" ctime="20170626133346" dir="1498444426nqcehx05ep" file="text.html"/>
+   </recordtable>
+  </node>
   <node crypt="" id="1498012374zcojnfb4o9" name="Аквариум"/>
   <node crypt="" icon="/WinStyle/nocolor_icons8_Windows_10_babys_room.svg" id="1498012383q0ov5voyso" name="Дети"/>
   <node crypt="" icon="/SmashingTourism/nocolor_smashing_tourism_Tourism-Icons_castle-2.svg" id="14980129618rjyaw148i" name="ПГС">
@@ -43,5 +50,6 @@
    </recordtable>
   </node>
   <node crypt="1" icon="" id="1498396469bvsy6d8wph" name="UkM1U0lNUAPusAdayfT5i9dxwz4l1mP34TsZZVDprtyDjlh7O+9zMiE2/+eHatbAcXlBmwg7SDU="/>
+  <node crypt="" id="1498443944j81g2ze4ph" name="Разное"/>
  </content>
 </root>
