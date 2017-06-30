@@ -47,6 +47,11 @@
     <node crypt="" id="1498013084nchh30h7w7" name="КЖ"/>
    </node>
    <node crypt="" id="14980131254h4gegv9z2" name="Общие сведения"/>
+   <node crypt="" id="1498801097e9hgqvsfcj" name="Grasshopper">
+    <recordtable>
+     <record id="1498801157mcnu9iw1ny" name="Эволюционные принципы, применяемые для решения проблем" author="Дэвид Руттен" url="http://www.grasshopper3d.com/profiles/blogs/evolutionary-principles" tags="" ctime="20170630163917" dir="1498801157czhzhq1yoc" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="" id="1498014085szohjc1h4q" name="MyTetra">
    <recordtable>
