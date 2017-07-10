@@ -17,7 +17,7 @@
     <recordtable>
      <record id="1499579490henygf0p86" name="Как собрать deb пакет для debian и ubuntu" author="" url="https://softnastroy.com/content/kak-sobrat-deb-paket-dlya-debian-i-ubuntu.html" tags="" ctime="20170709165130" dir="1499579490bugqdgryvq" file="text.html"/>
      <record id="1499720201ozam9baee0" name="Git " author="" url="" tags="" ctime="20170711075641" dir="1499720201zie1v395xn" file="text.html"/>
-     <record id="1499720896posjkj5spj" name="Логи" author="" url="" tags="" ctime="20170711080816" dir="1499720896kholsx1iij" file="text.html"/>
+     <record id="1499720896posjkj5spj" name="Логи" author="" url="https://habrahabr.ru/post/332502/" tags="" ctime="20170711080816" dir="1499720896kholsx1iij" file="text.html"/>
     </recordtable>
     <node crypt="" id="1498011965wrn4feyyk8" name="Bash"/>
    </node>
