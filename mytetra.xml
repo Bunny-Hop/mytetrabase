@@ -21,7 +21,11 @@
     </recordtable>
     <node crypt="" id="1498011965wrn4feyyk8" name="Bash"/>
    </node>
-   <node crypt="" id="1498012316vfxkzcrzr3" name="Maining"/>
+   <node crypt="" id="1498012316vfxkzcrzr3" name="Maining">
+    <recordtable>
+     <record id="14997211506hkpu0fprn" name="Криптовалюта — как её создавать?" author="" url="https://habrahabr.ru/post/263367/" tags="Криптография, Qt, C++" ctime="20170711081230" dir="149972115059uwvn0h9s" file="text.html"/>
+    </recordtable>
+   </node>
    <node crypt="" id="1498012325sehohq3rmu" name="3D">
     <recordtable>
      <record id="1499223682gw8urwhywe" name="IOR" author="" url="" tags="http://3dvsem.com/ior-index-of-refraction/" ctime="20170705140122" dir="14992236823oetxekd8l" file="text.html"/>
