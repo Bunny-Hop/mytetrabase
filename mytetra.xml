@@ -65,15 +65,15 @@
     <record id="1498014199qejz74hijh" name="MyT Habrahabr" author="" url="" tags="MyTetra" ctime="20170621140319" dir="1498014199azb2fzoj65" file="text.html"/>
    </recordtable>
   </node>
-<<<<<<< HEAD
+
   <node crypt="" id="1498443944j81g2ze4ph" name="Разное">
    <recordtable>
     <record id="1499674637yd8a0gew2w" name="аудир кодирование" author="" url="" tags="" ctime="20170710191717" dir="1499674637rdjhhv7gfw" file="text.html"/>
    </recordtable>
   </node>
-=======
+
   <node crypt="" id="1498443944j81g2ze4ph" name="Разное"/>
->>>>>>> d64f54d88e6c797be7ec1d0f091b5f0173aef254
+
   <node crypt="" id="1498549037iywajqv26h" name="АЛЬТЕРПАВЕР">
    <recordtable>
     <record id="1498549058ggwlnq6rdn" name="Супермаховик" author="" url="" tags="" ctime="20170627183738" dir="1498549058v1n3s6he5x" file="text.html"/>
