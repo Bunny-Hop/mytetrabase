@@ -17,7 +17,11 @@
     <node crypt="" id="1498011965wrn4feyyk8" name="Bash"/>
    </node>
    <node crypt="" id="1498012316vfxkzcrzr3" name="Maining"/>
-   <node crypt="" id="1498012325sehohq3rmu" name="3D"/>
+   <node crypt="" id="1498012325sehohq3rmu" name="3D">
+    <recordtable>
+     <record id="1499223682gw8urwhywe" name="IOR" author="" url="" tags="http://3dvsem.com/ior-index-of-refraction/" ctime="20170705140122" dir="14992236823oetxekd8l" file="text.html"/>
+    </recordtable>
+   </node>
    <node crypt="" id="1498424973drma58poiz" name="Win">
     <recordtable>
      <record id="1498435708uetgkmy5rb" name="Создание скрытого пользователя" author="" url="https://www.youtube.com/watch?v=qlwr83pgaYE" tags="пользователь" ctime="20170627004434" dir="1498435708zqggns5ytf" file="text.html"/>
@@ -58,8 +62,11 @@
     <record id="1498014199qejz74hijh" name="MyT Habrahabr" author="" url="" tags="MyTetra" ctime="20170621140319" dir="1498014199azb2fzoj65" file="text.html"/>
    </recordtable>
   </node>
-  
-  <node crypt="" id="1498443944j81g2ze4ph" name="Разное"/>
+  <node crypt="" id="1498443944j81g2ze4ph" name="Разное">
+   <recordtable>
+    <record id="1499674637yd8a0gew2w" name="аудир кодирование" author="" url="" tags="" ctime="20170710191717" dir="1499674637rdjhhv7gfw" file="text.html"/>
+   </recordtable>
+  </node>
   <node crypt="" id="1498549037iywajqv26h" name="АЛЬТЕРПАВЕР">
    <recordtable>
     <record id="1498549058ggwlnq6rdn" name="Супермаховик" author="" url="" tags="" ctime="20170627183738" dir="1498549058v1n3s6he5x" file="text.html"/>
