@@ -44,6 +44,8 @@
     <record id="1498489298l2ucj7fwi7" name="hub 1.1" author="Aheir, aheir@radiokot.ru" url="http://sirak.ucoz.ru/load/pc/vspomogatelnye_skhemy/usb_1_1_khab_light/19-1-0-487" tags="" ctime="20170627020138" dir="1498489298ruirjnzkvc" file="text.html"/>
     <record id="1498631352z69m8c5ggb" name="Изготовление PCB " author="" url="https://www.seeedstudio.com/" tags="" ctime="20170628172912" dir="1498631352hgntw0ts89" file="text.html"/>
    </recordtable>
+   <node crypt="" id="1499728132sj6o7pokj4" name="Паяльная станция"/>
+   <node crypt="" id="1499728157odaugofg2b" name="LED куб"/>
   </node>
   <node crypt="" id="1498012374zcojnfb4o9" name="Аквариум"/>
   <node crypt="" icon="/WinStyle/nocolor_icons8_Windows_10_babys_room.svg" id="1498012383q0ov5voyso" name="Дети"/>
@@ -59,7 +61,11 @@
     <node crypt="" id="1498013081l62qylg8eb" name="КМ"/>
     <node crypt="" id="1498013084nchh30h7w7" name="КЖ"/>
    </node>
-   <node crypt="" id="14980131254h4gegv9z2" name="Общие сведения"/>
+   <node crypt="" id="14980131254h4gegv9z2" name="Общие сведения">
+    <recordtable>
+     <record id="1499754820cl9vbixodh" name="Уклон" author="" url="" tags="" ctime="20170711173340" dir="14997548202fik97fun5" file="text.html"/>
+    </recordtable>
+   </node>
    <node crypt="" id="1498801097e9hgqvsfcj" name="Grasshopper">
     <recordtable>
      <record id="1498801157mcnu9iw1ny" name="Эволюционные принципы, применяемые для решения проблем" author="Дэвид Руттен" url="http://www.grasshopper3d.com/profiles/blogs/evolutionary-principles" tags="" ctime="20170630163917" dir="1498801157czhzhq1yoc" file="text.html"/>
