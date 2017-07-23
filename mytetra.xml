@@ -43,6 +43,13 @@
      </recordtable>
     </node>
    </node>
+   <node crypt="" id="1500788945j1wo4dph9f" name="Virus">
+    <recordtable>
+     <record id="150078896543b26uwkki" name="bat" author="" url="" tags="" ctime="20170723164925" dir="15007889651ej4shii7v" file="text.html"/>
+     <record id="1500789079sqhebgkr0h" name="Пишем своего троянчика!" author="" url="http://hackersoft.ru/library/articles/other/pishem_svoego_troyanchika_.html" tags="" ctime="20170723165119" dir="1500789079v2jrgmen54" file="text.html"/>
+     <record id="1500789222t9osoam3so" name="Пишем вирус и антивирус " author="Сазонов Д.О." url="http://sazonov-d.ru/?e=25" tags="вирус, антивирус" ctime="20170723165342" dir="1500789222erk382nrl5" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="" id="14980123592oknamxmc8" name="Паяльник">
    <recordtable>
